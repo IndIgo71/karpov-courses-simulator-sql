@@ -1,2 +1,2 @@
 # karpov-courses-simulator-sql
-https://lab.karpov.courses/learning/152/
+Решение задач курса ["Симулятор SQL"](https://lab.karpov.courses/learning/152/) от [karpov.courses](https://karpov.courses).
